@@ -19,12 +19,14 @@ export const Spell = styled.img`
     height: 40%;
     margin-left: 6.5%;
     margin-top: 5px;
+    cursor: pointer;
 `
 export const Extra = styled.img`
     width: 30%;
     height: 30%;
     margin-left: 12%;
     margin-top: 5px;
+    cursor: pointer;
 `
 
 export default Style

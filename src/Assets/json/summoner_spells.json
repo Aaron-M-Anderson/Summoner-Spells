@@ -496,6 +496,38 @@
         "h": 48
       },
       "resource": "No Cost"
+    },
+    "Summoner_UltBookPlaceholder": {
+      "id": "Summoner_UltBookPlaceholder",
+      "name": "Placeholder",
+      "description": "This slot will be replaced by another champion's ultimate selected at the start of the game. There will be 30 seconds to select an ultimate. Be prepared!",
+      "tooltip": "Will be replaced by your Ultimate Summoner Spell selection.",
+      "maxrank": 1,
+      "cooldown": [0],
+      "cooldownBurn": "0",
+      "cost": [0],
+      "costBurn": "0",
+      "datavalues": {},
+      "effect": [null, [0], [0], [0], [0], [0], [0], [0], [0], [0], [0]],
+      "effectBurn": [null, "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
+      "vars": [],
+      "key": "54",
+      "summonerLevel": 1,
+      "modes": ["ULTBOOK"],
+      "costType": "&nbsp;",
+      "maxammo": "-1",
+      "range": [400],
+      "rangeBurn": "400",
+      "image": {
+        "full": "https://ddragon.leagueoflegends.com/cdn/12.13.1/img/spell/Summoner_UltBookPlaceholder.png",
+        "sprite": "spell0.png",
+        "group": "spell",
+        "x": 192,
+        "y": 48,
+        "w": 48,
+        "h": 48
+      },
+      "resource": "&nbsp;"
     }
   }
 }
